@@ -16,3 +16,10 @@ ejercicios practicos de js
 - segundo paso: implementar las fórmulas en js
 - tercer paso: craar funciones
 - cuarto paso: integrar js con html
+
+## Taller #2: promedio, mediana y moda
+
+- primer paso: definir las fórmulas
+- segundo paso: implementar las fórmulas en js
+- tercer paso: craar funciones
+- cuarto paso: integrar js con html
